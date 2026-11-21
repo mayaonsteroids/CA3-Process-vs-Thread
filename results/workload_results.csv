@@ -1,0 +1,4 @@
+Workload_Per_Worker,Threads_Seconds,Processes_Seconds,Same_Results
+500000,0.0576,0.0365,True
+2000000,0.2398,0.1181,True
+5000000,0.5971,0.3259,True

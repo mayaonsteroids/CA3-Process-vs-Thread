@@ -1,0 +1,7 @@
+Run,Threads_Seconds,Processes_Seconds,Same_Results
+1,0.2775,0.1301,True
+2,0.3028,0.1319,True
+3,0.2717,0.1420,True
+4,0.2478,0.1376,True
+5,0.2454,0.1530,True
+Average,0.26904,0.13892,True
